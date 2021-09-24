@@ -1,0 +1,23 @@
+## Índice
+Instalar Apache Maven
+Actualizar sistema
+Instalar Maven por comando
+Comprobar versión instalada
+Descargar Apache Maven en el directorio /tmp:
+ establecer variables de entorno
+Creación archivo mavenen.sh
+Hacer que sea ejecutable  
+Cargar las variables de entorno 
+Verificar versión descargada
+Instalar Apache Maven
+Primero deberemos actualizar el sistema con el siguiente comando
+
+A continuación deberemos instalar Maven con el siguiente comando
+comprobaremos la versión instalada con el comando:
+descargamos la versión más actualizada  del Apache Maven en el directorio /tmp:
+extraemos el archivo al directorio /opt
+Escribe aquí tu texto
+Creación archivo mavenen.sh
+hacer que sea ejecutable  
+cargar las variables de entorno 
+verificar versión descargada
